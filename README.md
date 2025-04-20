@@ -1,4 +1,4 @@
-# ML-Fashion-MNIST-Adv
+# Fashion MNIST Classification
 
 This project presents an advanced image classification model trained on the Fashion-MNIST dataset using Keras. It explores various deep learning techniques to enhance model performance and accuracy.
 
